@@ -17,4 +17,4 @@ The goal is to build the back end for an e-commerce site. The sites backend must
 ![Image of the find all product root](https://github.com/nathan26036/e-commerce-back-end/blob/main/Assets/Snip%20of%20products.PNG)
   
 ## Installation 
-The final code tutorial can be found at 
+The final code tutorial can be found at https://drive.google.com/file/d/1CxApjHjf3xj8LdG1WvGnj_NAZMDValOC/view?usp=sharing
