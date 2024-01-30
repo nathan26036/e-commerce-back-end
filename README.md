@@ -14,7 +14,7 @@ The goal is to build the back end for an e-commerce site. The sites backend must
 * Created a put to update a category, product, or tag
 * Created a delete to delete a category, product, or tag
 
-![Image of the find all product root]()
+![Image of the find all product root](https://github.com/nathan26036/e-commerce-back-end/blob/main/Assets/Snip%20of%20products.PNG)
   
 ## Installation 
 The final code tutorial can be found at 
